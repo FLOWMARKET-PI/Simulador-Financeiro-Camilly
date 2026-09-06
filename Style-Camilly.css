@@ -13,8 +13,7 @@ body{
 
 .fundo{ 
     height: 100%;
-    background-image: url("fundo.png");
-    background-size: cover;
+    background-color: rgb(176, 234, 238);
 
     display: flex;
     justify-content: center;
@@ -27,7 +26,7 @@ Isso faz o fundo ocupar a altura da página.
 background-cover - Aumenta ou diminui a imagem para que ela cubra todo o espaço.*/
 .calculadora{ 
     width: 30%; 
-    background-color: rgb(229, 244, 253); 
+    background-color: rgb(13, 102, 109); 
     padding: 20px; 
     border-radius: 10px; 
     text-align: center; 
